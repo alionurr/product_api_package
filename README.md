@@ -1,6 +1,6 @@
 # Product API Package
 
-This Laravel project integrates with an external product API package. Follow the steps below to set up and run the project.
+This Laravel project integrates with an external product API package. 
 
 ## Requirements
 
